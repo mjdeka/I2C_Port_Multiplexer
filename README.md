@@ -12,9 +12,7 @@ This project includes two modules:
    Product Type: High Precision Temperature and Humidity Sensor suited for Heating Ventilation and Air Conditioning Systems.
    Product Link: https://www.sparkfun.com/products/13763
    I2C Address: 0x40
-
 --------------------------------------------------------------------------------
-
 Using sensors with non programmable I2C address is difficult if more number of sensors are to be installed with a same module.
 The TCA9548A module is a solution for such problems if we have to hook up similar I2C devices with a micro-controller.
 However there are solutions and libraries available for other modules of Adafruit like BME280 and BMP085 sensors.
