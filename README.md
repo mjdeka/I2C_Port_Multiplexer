@@ -26,6 +26,8 @@ Mentor Credits:
 1. Harsh Joshi
    https://github.com/Joshi-Harsh
 2. Farogh Iftekhar
+   https://github.com/farogh007
+
 
 --------------------------------------------------------------------------------
 Company Credits:
